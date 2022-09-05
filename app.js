@@ -41,6 +41,7 @@ app.post("/", (req, res) => {
     const listID = process.env.LIST_ID
     const api_key = process.env.API_KEY
 
+
     
     const url = `https://us18.api.mailchimp.com/3.0/lists/${listID}`;
 

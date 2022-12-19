@@ -8,8 +8,8 @@ I have developed this using the following technologies:
 HTML | CSS | BootStrap
 Nodejs | Express js
 
-The solution also incorperates the intergration of an API to connect the form to my mailchimp account.
+The solution also incorporates the integration of an API to connect the form to my mailchimp account.
 
 This being a work in progress, and part of my initial projects i am open to comments and feedback.
 
-Version 2 of the solution will be comming up soon.
+Version 2 of the solution will be coming up soon.
